@@ -1,0 +1,2 @@
+# squiz
+file compressor
